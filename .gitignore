@@ -1,5 +1,7 @@
 .pyc
 *.py[co]
+.idea/
+SEC-Edgar-Data/
 
 # Packages
 *.egg
